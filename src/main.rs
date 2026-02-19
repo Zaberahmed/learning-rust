@@ -4,7 +4,7 @@ mod primitives;
 fn main() {
     // print::hello_world();
     // print::format_print();
-    // primitives::literals_and_operators();
+    primitives::literals_and_operators();
 }
 
 
